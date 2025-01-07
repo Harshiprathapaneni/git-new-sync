@@ -1,5 +1,5 @@
 AWSTemplateFormatVersion: 2010-09-09
-Description: This is my gitsync demo template
+Description: This is my gitsync demo template 1
 Resources:
   GitsyncVpc:
     Type: AWS::EC2::VPC
